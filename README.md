@@ -1,1 +1,5 @@
-[https://clone-e3f04.web.app]
+To run the app :<br/>
+>npm install<br/>
+>npm start<br/>
+>localhost:3000
+
